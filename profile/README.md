@@ -1,5 +1,10 @@
 # Projeto Habitafort
 
+## Integrantes
+- Carlos Giovane Neu Nogueira (2311100010)
+- Júlio Carvalho Gonçalves (2311100012)
+- Marco Antônio Duz (2311100006)
+
 ## Visão Geral
 
 Este projeto é uma iniciativa da *Habitafort*, uma construtora e incorporadora sediada em Chapecó, focada na construção de edifícios residenciais de pequeno a médio porte. A empresa tem como missão entregar imóveis acessíveis, com alta qualidade e ótimo padrão de acabamento, através de parcerias estratégicas com instituições financeiras e imobiliárias.
