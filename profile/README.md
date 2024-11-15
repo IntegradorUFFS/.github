@@ -9,7 +9,7 @@
 
 Este projeto é uma iniciativa da *Habitafort*, uma construtora e incorporadora sediada em Chapecó, focada na construção de edifícios residenciais de pequeno a médio porte. A empresa tem como missão entregar imóveis acessíveis, com alta qualidade e ótimo padrão de acabamento, através de parcerias estratégicas com instituições financeiras e imobiliárias.
 
-https://github.com/IntegradorUFFS/requisitos/blob/main/Relato%CC%81rio%20-%20Projeto%20Integrador.pdf
+[https://github.com/IntegradorUFFS/requisitos/blob/main/Relato%CC%81rio%20-%20Projeto%20Integrador.pdf](https://github.com/IntegradorUFFS/requisitos/blob/main/Relat%C3%B3rio%20-%20Projeto%20Integrador.pdf)
 
 ## Objetivo do Projeto
 
